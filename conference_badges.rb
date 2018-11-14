@@ -22,6 +22,7 @@ def printer
   end
   assign_rooms.each(attendees).each do |room_no|
     puts room_no
+  end
 end
     
 
